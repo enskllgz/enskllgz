@@ -59,6 +59,7 @@ $ skills --load
   <a href="https://github.com/enskllgz">
     <img src="https://github-readme-stats.vercel.app/api?username=enskllgz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats" />
   </a>
+  
   <a href="https://github.com/enskllgz">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enskllgz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="langs" />
   </a>
