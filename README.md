@@ -39,7 +39,7 @@
     </td>
     <td width="40%" align="center">
       <a href="https://github.com/enskllgz">
-        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amp6a3hjNzkwNDRpNWYydmt6dHh4cXJhNDRkMXE2dXA5cm50aDhxdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/4BnnmOr00GGsw/giphy.gif" alt="Coding Monkey" width="100%" style="border-radius: 10px;" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNhNjZieWRrdTh3eGd4YXh0NTVnaDBnYWp4bTJmNDl6M2dqNm5kayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Coding Monkey" width="100%" style="border-radius: 10px;" />
       </a>
     </td>
   </tr>
