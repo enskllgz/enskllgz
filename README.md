@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1TVTh2RhtD95VqH/giphy.gif" width="100%" style="max-width:600px; border-radius:10px;" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhpamRwcmF0eXUzYTRoZXpjb3M1Y3NhMndra2JjZ2p3ajc1N2tkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif" width="100%" style="max-width:600px; border-radius:10px;" />
   </div>
 
 ### 🚀 Hakkımda
