@@ -1,52 +1,64 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=SYSTEM_ROOT%40ENSKLLGZ:~$+sudo+init;LOADING+MODULES...+DONE;WE_ARE_ONVERA_CREATIVE;SENIOR+UNITY+DEV+ONLINE&font=Fira+Code&center=true&width=600&height=50&color=00ff00&vCenter=true&pause=1000&background=000000" />
+<a href="https://github.com/enskllgz">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=ONVERA+CREATIVE+FOUNDER;SENIOR+UNITY+DEV;FULL+STACK+WIZARD;AI+%26+AUTOMATION&font=Fira+Code&center=true&width=600&height=40&color=F7931A&vCenter=true&pause=1000&background=00000000" />
+</a>
 
-<pre align="left">
-<code class="language-bash">
-User: enskllgz (Enes)
-Role: Founder @ Onvera Creative
-Level: Senior Unity Developer
-Location: Turkey
----------------------------------------------------
-$ current_focus
-> [ "Mobile Apps", "SaaS Platforms", "AI Automation" ]
+<p align="center">
+  <a href="https://www.onvera.com.tr" target="_blank">
+    <img src="https://img.shields.io/badge/Agency-Onvera_Creative-black?style=for-the-badge&logo=googlechrome&logoColor=white&color=181717" />
+  </a>
+  <a href="mailto:enskllgzz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-black?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" />
+  </a>
+  <a href="https://www.linkedin.com/in/enskllgz/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
+  </a>
+</p>
 
-$ skills --load
-> Unity 3D/2D.....[██████████] 100%
-> React / Web.....[████████░░] 85%
-> UI/UX Design....[█████████░] 90%
-> Backend.........[███████░░░] 70%
-
-$ contact_info
-> "enskllgzz@gmail.com"
-> "https://www.onvera.com.tr"
-</code>
-</pre>
+</div>
 
 ---
 
-### 🛠️ System Architectures
+<table>
+  <tr>
+    <td width="60%" valign="center">
+      <h3 align="left">⚡ System Status: ONLINE</h3>
+      <ul>
+        <li>👑 <strong>Kurucu:</strong> Onvera Creative Ajansı.</li>
+        <li>🎮 <strong>Unity Master:</strong> Senior seviye 2D/3D Oyun Geliştirme.</li>
+        <li>💻 <strong>Stack:</strong> Web, Mobil, SaaS & Otomasyon.</li>
+        <li>🤖 <strong>Yapay Zeka:</strong> Python, Model Eğitimi, Botlar.</li>
+        <li>🎨 <strong>Design:</strong> Adobe Suite & Figma (Tasarım Gözü).</li>
+      </ul>
+      <br/>
+      <blockquote>
+        "Kodun mantığı ile tasarımın estetiğini birleştiriyorum."
+      </blockquote>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.tenor.com/GfSX-u7VZQ4AAAAi/coding.gif" alt="Coding Monkey" width="100%" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack (Teknoloji Cephanem)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,react,nextjs,tailwind,nodejs,laravel,python,mysql,firebase,docker,git,figma,ps,ae&perline=15&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,react,nextjs,vue,tailwind,nodejs,laravel,php,mysql,firebase,python,docker,git,figma,ps,ae&perline=14&theme=dark" />
 </div>
 
-<br />
+---
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=enskllgz&theme=matrix&no-frame=true&margin-w=15&margin-h=15" />
-  </a>
-</div>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=enskllgz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enskllgz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="langs" />
 
-<br />
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=enskllgz&theme=highcontrast&hide_border=true&background=000000&ring=00ff00&currStreakLabel=00ff00" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enskllgz&label=SYSTEM_VISITORS&color=success&style=for-the-badge" />
-</p>
-
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=enskllgz&label=PROFIL+ZIYARETCILERI&color=orange&style=for-the-badge" alt="visitors" />
+  
 </div>
