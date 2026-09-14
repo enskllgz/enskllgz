@@ -11,7 +11,7 @@
   <a href="mailto:enskllgzz@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/enskllgz" target="_blank">
+  <a href="https://www.linkedin.com/in/enes-kellegoz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
