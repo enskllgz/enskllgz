@@ -26,7 +26,7 @@
       <h3>⚡ System Status: <span style="color:#00ff00">ONLINE</span></h3>
       <br/>
       <ul>
-        <li>👑 <strong>Kurucu:</strong> Onvera Creative Ajansı.</li>
+        <li>👑 <strong>Kurucu:</strong> Onvera Creative & Ostimtech Sosyal Network</li>
         <li>🎮 <strong>Unity Master:</strong> Senior seviye 2D/3D Oyun Geliştirme.</li>
         <li>💻 <strong>Full Stack:</strong> Web, Mobil, SaaS & Otomasyon.</li>
         <li>🤖 <strong>Yapay Zeka:</strong> Python, Model Eğitimi, Botlar.</li>
